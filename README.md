@@ -10,3 +10,5 @@
 ![](IMG-6370.jpg)
 ![](IMG-7483.jpg)
 ![](IMG_6371.jpg)
+
+Dmcar-new is good and doesn't need much improving.  The steps make sense and go in an order that is easy to follow.  Showing images of the parts used in each step was very helpful.

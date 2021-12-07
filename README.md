@@ -44,5 +44,10 @@ No changes for changing either the lane detection or motors, everything worked p
 ![](IMG_6632.jpg)
 
 # Phase 6
+![](IMG_6635.jpg)
 
-# Phase 7
+Link to trial run:
+https://youtu.be/6jIXIixmqLc
+
+Link to trial run camera view:
+https://youtu.be/E0ZPJ6yTNtw

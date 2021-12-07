@@ -35,6 +35,13 @@ No changes for changing either the lane detection or motors, everything worked p
 ![](IMG_6627.jpg)
 
 # Phase 5
+![](IMG_6633.jpg)
+![](IMG_6634.jpg)
+![](IMG_6628.jpg)
+![](IMG_6629.jpg)
+![](IMG_6630.jpg)
+![](IMG_6631.jpg)
+![](IMG_6632.jpg)
 
 # Phase 6
 

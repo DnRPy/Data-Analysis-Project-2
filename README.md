@@ -23,9 +23,12 @@ Raspberry Pi was very easy to understand and use.  Didn’t have any difficultie
 
 # Phase 3
 ![](IMG_6624.jpg)
+
+Link to lane detection video:
 https://youtu.be/zzQysaI8Qtc
 
 No changes for changing either the lane detection or motors, everything worked perfectly.
+
 # Phase 4
 
 # Phase 5

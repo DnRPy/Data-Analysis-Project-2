@@ -30,6 +30,9 @@ https://youtu.be/zzQysaI8Qtc
 No changes for changing either the lane detection or motors, everything worked perfectly.
 
 # Phase 4
+![](IMG_6625.jpg)
+![](IMG_6626.jpg)
+![](IMG_6627.jpg)
 
 # Phase 5
 

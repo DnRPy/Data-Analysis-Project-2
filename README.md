@@ -12,3 +12,21 @@
 ![](IMG_6371.jpg)
 
 Dmcar-new is good and doesn't need much improving.  The steps make sense and go in an order that is easy to follow.  Showing images of the parts used in each step was very helpful.
+
+# Phase 2
+![](1.jpg)
+![](2.jpg)
+![](3.jpg)
+![](4.jpg)
+
+Raspberry Pi was very easy to understand and use.  Didn’t have any difficulties and it was easy to setup. 
+
+# Phase 3
+
+# Phase 4
+
+# Phase 5
+
+# Phase 6
+
+# Phase 7
